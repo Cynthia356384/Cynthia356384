@@ -31,6 +31,7 @@ También tengo experiencia trabajando con diferentes lenguajes de programación 
 - 🎬 CapCut
 - 🎨 Diseño UX/UI
 - 🖼️ Diseño visual
+- 🖼️ Canva
 
 ## 🎨 Áreas de interés
 
